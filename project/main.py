@@ -11,3 +11,7 @@ def home():
 def run():
     data = run_scraping()
     return jsonify({"status": "ok", "results": data})
+
+# Adicione isso no final:
+if __name__ == "__main__":
+    app.run(debug=True)
