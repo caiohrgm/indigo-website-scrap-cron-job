@@ -4,7 +4,7 @@ import json
 from scrap.scrap import run_scraping
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "https://www.indigotechnologies.wiki.br"}})
+CORS(app, resources={r"/*": {"origins": ["https://www.indigotechnologies.wiki.br", "http://localhost:5173/"]}})
 
 @app.route("/")
 def home():
