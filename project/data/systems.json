@@ -1,0 +1,3572 @@
+[
+  {
+    "name": "134 Tauri",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 2194293,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "51.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "23 Geminorum",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 98212,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "30 Geminorum",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 109845,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "53.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "75 l Orionis",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 111344,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Aapep",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 162288,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "6.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Alkondu",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 23913,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "15.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Amitabha",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 3048441,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "7.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Bach",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 16461,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "11.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Bastana",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 7153533,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "5.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Bhime",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 16150961,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "13.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Bletii",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 6108032,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "15.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Celes",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 89354,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "39.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector AJ-Q b6-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 149249,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "53.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector AU-O b7-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 209522,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector BA-Z d24",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 125320,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "12.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector BA-Z d70",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 35923908,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "10.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector BK-N b8-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 61062,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector BK-N b8-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1784199,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector BU-O b7-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 919208,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector BU-O b7-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 93080,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "56.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector BU-O b7-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 197588,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "53.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector BU-O b7-5",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 7404665,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector CU-O b7-1",
+    "government": "Cooperative",
+    "allegiance": "Independent",
+    "population": 59765,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector DF-N b8-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 50939,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "52.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector DV-Y d32",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 187135,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector EP-O b7-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 4187678,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector FA-N b8-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 28182851,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector FA-N b8-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 57472,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector FG-X d1-20",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 142509,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector FG-X d1-43",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 154704,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector FG-X d1-53",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 170188,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector FG-X d1-68",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 161946,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "64.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector FK-O b7-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 81379,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector FQ-L b9-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 6355504,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector FQ-L b9-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 178926,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector FQ-L b9-5",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 145662,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector FV-X c1-12",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 63731,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector FV-X c1-21",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 119663,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "51.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector FV-X c1-23",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 167320,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "37.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector FV-X c1-24",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 1782532,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "33.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-106",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 96017,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "48.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-107",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 57763,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-123",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 30520,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-124",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 534302237,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "16.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-32",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 66983,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-42",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 80144,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "18.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-52",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 327683587,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "77.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-58",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 46058,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-84",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 190211,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-87",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1312893,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-89",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 175294,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "53.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-91",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 89919,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-98",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 181542,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector GG-X d1-99",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 83852,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GK-O b7-6",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 35492848,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "12.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GL-L b9-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 2024522,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector GV-X c1-24",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 59311,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector HG-W c2-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 40757,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "54.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector HG-W c2-8",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 56697,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "51.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector HI-Q a7-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 41101,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector HK-O b7-6",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 86832,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector HQ-X c1-7",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 2754913,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "18.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector HV-M b8-4",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 83555,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "22.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector JB-W c2-16",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 690317,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector JB-W c2-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 152265,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector JB-W c2-22",
+    "government": "Democracy",
+    "allegiance": "Federation",
+    "population": 1200185,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "25.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector KB-W c2-18",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 59327,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector KB-W c2-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 48048,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector KM-V d2-112",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 47839,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector KM-V d2-115",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 56538,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector KM-V d2-118",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 82658,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector KM-V d2-119",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 94349,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector KM-V d2-55",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 651993,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "18.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector KM-V d2-79",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 2250147,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "17.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector KO-O a8-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 65989,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector KV-V b3-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 57212,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "54.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector LB-W c2-13",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 292435,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector LB-W c2-20",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 137672,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector LQ-M b8-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 5625886,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector LQ-M b8-6",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 71009,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector LQ-V b3-2",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 70031,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "34.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector LQ-V b3-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 147527,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "47.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-0",
+    "government": "Cooperative",
+    "allegiance": "Independent",
+    "population": 1062988,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "32.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 184945,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "56.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-12",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 88260,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-16",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 101763,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-2",
+    "government": "Cooperative",
+    "allegiance": "Independent",
+    "population": 5792579,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "35.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-22",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 83585,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 76075,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 14632866,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-5",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 212367,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-7",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 345109,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector MM-U c3-8",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 177991,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector NB-U b4-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 757676,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector NL-V b3-2",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 4761484,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "24.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector NL-V b3-5",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 445088,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "42.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector NM-U c3-10",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 165515,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector NZ-M a9-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 40097,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "53.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector OH-U c3-10",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 169082,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "22.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector OH-U c3-14",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 88872,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "17.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector OH-U c3-23",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 79382,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "18.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector OW-K b9-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 2433594,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector OW-K b9-4",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 240774,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector OW-K b9-7",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 57265,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector OX-S c4-12",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 82413,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector OX-S c4-16",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 5970522,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector PH-U c3-14",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 166137,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "64.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector PH-U c3-16",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 46152,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector PH-U c3-20",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 104599,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector PH-U c3-23",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 119775,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector PH-U c3-5",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 132169,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector PM-S b5-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 139893,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector PM-S b5-6",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 38987,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector PW-T b4-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 53365302,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "66.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector PW-T b4-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 31871453,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector PW-T b4-3",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 909714,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "35.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector QB-U b4-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 86305,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector QS-S c4-11",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 177674,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector QS-S c4-12",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 31483159,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector QS-S c4-2",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 225340,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "11.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector QS-S c4-7",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 56027,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector QS-S c4-9",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 751496,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector TN-S c4-27",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 548152,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "22.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector TN-S c4-28",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 12197,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector TN-S c4-5",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 152996,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector TR-T b4-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 36611834,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector UR-T b4-2",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 59011,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector US-Q b6-1",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 44442,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "12.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector WN-Q b6-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 199192,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector WX-R b5-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 63122,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector XL-J a11-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 3986239,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector XY-O b7-0",
+    "government": "Feudal",
+    "allegiance": "Independent",
+    "population": 199732,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector YN-Q b6-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 321868,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector YN-Q b6-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 89961,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Col 285 Sector YX-R b5-1",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 61835,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector YX-R b5-3",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 160457,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "16.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector YX-R b5-5",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 74456,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "30.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector YY-O b7-2",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 78385,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "11.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Col 285 Sector ZX-R b5-0",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 59662558,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "8.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Cuic",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 15150,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "9.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Drevelli",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 44080,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "11.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Gerong",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 2581941,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "5.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Giryamba",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 105669,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "15.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 26625",
+    "government": "Communism",
+    "allegiance": "Independent",
+    "population": 65906,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "13.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 26729",
+    "government": "Communism",
+    "allegiance": "Independent",
+    "population": 84063,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "13.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 27431",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 91136,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 27933",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1156981,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "53.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 29200",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 478894,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 29665",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 21226,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 29991",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 360386,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "64.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 30749",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 429373,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 30838",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 86087,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 31326",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 111225,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 31849",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 86403,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "18.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 32608",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 1841910,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 33227",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 96805,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 33275",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 680536,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "10.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 33303",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 74618,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 33608",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 87252,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 33941",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 5598147,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "67.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 34214",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 182047,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 34633",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 2419393,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 34759",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 318483,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "56.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HIP 35185",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 150481,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "5.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HIP 35219",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 126585,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HR 2324",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 78635,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HR 2375",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 2584941,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HR 2391",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 10791399,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "47.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "HR 2551",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 5811,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "63.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "HR 2606",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 66122441,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "44.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector AF-Y b1-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 124013,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector AF-Z c20",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 138439,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector AV-Y d106",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 32759836,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector AV-Y d109",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 32893,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector AV-Y d36",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 104577,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector AV-Y d65",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 84086,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "53.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector AV-Y d70",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 4371051,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "56.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BA-Z c2",
+    "government": "Democracy",
+    "allegiance": "Federation",
+    "population": 227976,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "34.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector BA-Z c3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 36105486,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "53.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BA-Z c4",
+    "government": "Democracy",
+    "allegiance": "Federation",
+    "population": 2196124,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "34.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector BA-Z c5",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1069326,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "47.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector BA-Z c8",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 191016,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BF-Y b1-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 12234398,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BF-Y b1-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 101192,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BF-Y b1-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 146919,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "64.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BF-Y b1-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 6923299,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BF-Y b1-5",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 126459,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BQ-X c1-11",
+    "government": "Feudal",
+    "allegiance": "Independent",
+    "population": 5206877,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "22.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector BQ-X c1-12",
+    "government": "Feudal",
+    "allegiance": "Independent",
+    "population": 182693,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "18.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector BQ-X c1-19",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 10525044,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BQ-X c1-21",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 403130,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "14.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector BV-Y d45",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 821504,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BV-Y d60",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 2062029,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BV-Y d61",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1132431,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BV-Y d95",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 163814,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BV-Y d96",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 190627,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "63.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector BV-Y d97",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 48988,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector CA-Z c12",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 6279537,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector CQ-X c1-6",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 96044,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "56.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DF-W a3-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 69507,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DF-W a3-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 197634,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DF-W a3-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 152207,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DG-V b3-4",
+    "government": "Feudal",
+    "allegiance": "Independent",
+    "population": 82907,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector DL-X c1-10",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 448307,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DL-X c1-13",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 92320,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DL-X c1-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 116268,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "54.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DL-X c1-21",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 3126532,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DL-X c1-6",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 999742,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DL-X c1-7",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1226646,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "68.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DL-X c1-8",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 859339,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DQ-W b2-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1095290,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DQ-W b2-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 82225,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector DQ-W b2-7",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 98510,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector EB-X d1-112",
+    "government": "Confederacy",
+    "allegiance": "Independent",
+    "population": 32010,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "4.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector EB-X d1-54",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 183578,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "29.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector EL-X c1-11",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 1653284,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "16.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector EQ-W b2-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 5595889,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector EQ-W b2-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 288327,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "56.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector EW-V c2-5",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 27499,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector FB-V b3-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 126461,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector FB-V b3-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 100793,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector FB-V b3-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 17277766,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "65.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector FB-V b3-5",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 40297731,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FB-X d1-64",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 213326,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FB-X d1-65",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 121600,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FB-X d1-66",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 2300451,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FB-X d1-67",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 212220,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FB-X d1-85",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 1119715,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "23.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FB-X d1-88",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 73304,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FB-X d1-90",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 27177305,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "10.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FL-W b2-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 77173,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector FL-W b2-8",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 102080,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "56.4%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector FW-V c2-20",
+    "government": "Prison Colony",
+    "allegiance": "Independent",
+    "population": 73781,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "13.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector FW-V c2-8",
+    "government": "Prison Colony",
+    "allegiance": "Independent",
+    "population": 102128,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "13.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector GB-V b3-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 54308,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GB-V b3-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 3054548,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GB-V b3-5",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1089394,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "48.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector GF-W a3-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 81863,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GL-W b2-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 73131,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GL-W b2-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 175798,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GL-W b2-4",
+    "government": "no government",
+    "allegiance": "Independent",
+    "population": 0,
+    "power": "unoccupied",
+    "factions": 1,
+    "influence": "100.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GL-W b2-5",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 65932,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GL-W b2-6",
+    "government": "Democracy",
+    "allegiance": "Independent",
+    "population": 130850656,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "38.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector GV-X b1-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 14374,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GV-X b1-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 728174,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GV-X b1-6",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 60332,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GW-V c2-14",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 192140,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "17.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector GW-V c2-17",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 18885283,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "68.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GW-V c2-18",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1368331,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "53.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector GW-V c2-19",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 35926730,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "15.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector GW-V c2-5",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 31012643,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "10.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector HM-T b4-1",
+    "government": "Feudal",
+    "allegiance": "Independent",
+    "population": 104660,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector HR-V c2-10",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 194135,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector HR-V c2-14",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 816843,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector HR-V c2-15",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 1185134,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "18.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector HR-V c2-16",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 168979,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector HR-V c2-20",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 55270,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector HR-V c2-9",
+    "government": "Cooperative",
+    "allegiance": "Independent",
+    "population": 50299,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "13.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector HW-U b3-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 224491,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.5%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector HW-U b3-6",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 109297,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "62.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector IH-T b4-5",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 73127,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector IR-U b3-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 182795,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector IR-U b3-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 97420,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.8%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector IR-U b3-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 90233,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector IR-U b3-6",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 23504735,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "74.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector IR-V c2-13",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 90355,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "22.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector IR-V c2-16",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 1105361,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "19.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector IR-V c2-22",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 59346,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector IR-V c2-28",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 444387,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "24.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector IR-V c2-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 55491,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "24.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector IR-V c2-8",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 2170016,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector IW-U b3-4",
+    "government": "no government",
+    "allegiance": "Independent",
+    "population": 0,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector JH-T b4-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1178554,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector JH-T b4-3",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 202388,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "12.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector JH-T b4-5",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 1133880,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "13.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector JW-U b3-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 47347,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector KB-W b2-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 11901573,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "16.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector KC-T b4-2",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 102808,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector KC-T b4-3",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 37306932,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "14.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector KC-T b4-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 24066429,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "73.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector KC-T b4-5",
+    "government": "Cooperative",
+    "allegiance": "Independent",
+    "population": 12965902,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector KH-T b4-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 34182606,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "13.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector LC-T b4-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 451659,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "39.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector LC-T b4-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 84780,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector LC-T b4-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 158211,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector LC-T b4-5",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 654098,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector LR-U b3-6",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 64048,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "25.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector MC-T b4-0",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 86761,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector MC-T b4-1",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 30653666,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "18.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector MC-T b4-2",
+    "government": "Democracy",
+    "allegiance": "Alliance",
+    "population": 10599210,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "7.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector MC-T b4-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 210947,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "22.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector MC-T b4-4",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 216476,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector MC-T b4-5",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 111590,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "22.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector MC-T b4-6",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 100918,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "22.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector MR-S a5-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 91593,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector MX-S b4-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 189875,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector MX-T c3-15",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 171065,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "5.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector NC-T b4-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 33454106,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector NN-R b5-0",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 82013,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector NN-R b5-2",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 94101,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector NN-R b5-4",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 222143,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector NN-R b5-5",
+    "government": "Corporate",
+    "allegiance": "Federation",
+    "population": 154773,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "4.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector NX-S b4-1",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 189736,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector NX-S b4-2",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 194944,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector NX-S b4-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1202697,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "70.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector NX-S b4-6",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 52314,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "12.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector OI-R b5-3",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 215315,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector OI-R b5-5",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 32466757,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "15.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector ON-R b5-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 187709,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "16.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector ON-R b5-6",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 85300,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector OR-S a5-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 75175,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector OX-S b4-3",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 8836058,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "24.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector OY-P b6-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 5062,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector PI-R b5-0",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 105744,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector PI-R b5-2",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 66772745,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "24.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector PI-R b5-3",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 1915480,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector PI-R b5-5",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 122944,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector PI-R b5-6",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 79899,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.2%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector PM-S a5-3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 191926,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector QI-R b5-0",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 98759,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "21.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector QI-R b5-4",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 890744,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "20.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector QI-R b5-5",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 24056098,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "19.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector QI-R b5-6",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 284485,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "23.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector TD-R b5-5",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 937458,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "22.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector TO-P b6-3",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 1547647,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "12.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector UD-A b1-2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 87717,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector UO-P b6-0",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 833,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "10.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector VY-Z b2",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 11824347,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "65.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector VY-Z b3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 4434927,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "52.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector VY-Z b4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 25250,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector VY-Z b6",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 51787,
+    "power": "unoccupied",
+    "factions": 3,
+    "influence": "70.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector WJ-P b6-0",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 929,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "6.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector YJ-Y b1-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 165546,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector YY-X a2-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 143901,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector ZE-Z c10",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 10000,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector ZE-Z c12",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 6254298,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "55.9%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector ZE-Z c18",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1238120,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "49.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector ZE-Z c24",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 24260687,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "60.2%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector ZE-Z c3",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 68255,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.6%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector ZE-Z c4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 54617,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "49.7%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Hyades Sector ZE-Z c8",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 62815,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "63.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector ZE-Z c9",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 5163553,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "59.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector ZJ-Y b1-1",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 70184,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "58.1%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Hyades Sector ZJ-Y b1-4",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 637651,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "57.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Juro",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 29741,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "4.9%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Kamil",
+    "government": "Feudal",
+    "allegiance": "Independent",
+    "population": 55652,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "13.4%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Mashian",
+    "government": "Patronage",
+    "allegiance": "Independent",
+    "population": 146792,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "15.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Merek",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 71798,
+    "power": "Li Yong-Rui",
+    "factions": 6,
+    "influence": "13.1%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Parenich",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 22738,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "8.8%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Ross 422",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 4292366,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "61.7%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Taiocamu",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 8548,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "5.6%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Taurinja",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 43743,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "4.0%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Tekkeitjal",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 1024237,
+    "power": "unoccupied",
+    "factions": 6,
+    "influence": "74.0%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Wolf 284",
+    "government": "Corporate",
+    "allegiance": "Independent",
+    "population": 51452,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "52.3%",
+    "is_leader": "yes"
+  },
+  {
+    "name": "Wolf 286",
+    "government": "Confederacy",
+    "allegiance": "Federation",
+    "population": 1850,
+    "power": "unoccupied",
+    "factions": 4,
+    "influence": "14.5%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Xbaquitae",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 8883830,
+    "power": "unoccupied",
+    "factions": 7,
+    "influence": "7.3%",
+    "is_leader": "no"
+  },
+  {
+    "name": "Zememede",
+    "government": "Anarchy",
+    "allegiance": "Independent",
+    "population": 11333,
+    "power": "unoccupied",
+    "factions": 5,
+    "influence": "10.1%",
+    "is_leader": "no"
+  }
+]
